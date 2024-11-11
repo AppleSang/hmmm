@@ -22,4 +22,5 @@ blueprint -i nebula.blueprint
 
 
 blueprint -i simplefavicons.blueprint
-blueprint -i simplefavicons.blueprint
+y
+blueprint -i nightadmin.blueprint
